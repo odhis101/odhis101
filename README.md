@@ -27,6 +27,6 @@ React is like a good, reliable friend that's always there for you. Next.js is li
 I know Java, but let's not talk about it... 🙈
 
 ## Contact Me
-https://play.google.com/store/apps/details?id=com.cic.invest&pcampaignid=web_share
+
 
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/joshua-oyugi-a2a86b220/) or [Instagram](https://www.instagram.com/josh_odhis/)!
